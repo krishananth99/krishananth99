@@ -5,7 +5,7 @@ I'm Balakrishnan Ananthanarayanan, a passionate Data Analyst & Computational Mod
 🔭 Currently exploring data-driven solutions in computational modelling, statistical analysis, and predictive analytics.
 🌱 Learning and applying Python, SQL, and Machine Learning techniques to real-world problems.
 ⚡ Love working with large-scale data, building predictive models, and uncovering insights from complex datasets.
-🎯 Interested in collaborating on data science projects, statistical modelling, and business intelligence applications.
+🎯 Interested in collaborating on data science projects, and statistical modelling.
 
 
 📫 Feel free to reach out at krish.ananth99@gmail.com
